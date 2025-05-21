@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PahlawanIndonesia</string>
+    <string name="nama">Nama Pahlawan</string>
+    <string name="deskripsi">Deskripsi Pahlawan</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pendiri Muhammadiyah dan tokoh pendidikan Islam.</item>
+        <item>Jenderal TNI yang gugur dalam peristiwa G30S/PKI.</item>
+        <item>Pemimpin pertempuran Surabaya melawan penjajah.</item>
+        <item>Jenderal TNI dan tokoh militer Indonesia.</item>
+        <item>Pelopor pendidikan nasional dan pendiri Taman Siswa.</item>
+        <item>Proklamator dan Wakil Presiden pertama Indonesia.</item>
+        <item>Panglima Besar TNI yang memimpin gerilya melawan Belanda.</item>
+        <item>Proklamator dan Presiden pertama Republik Indonesia.</item>
+        <item>Perancang UUD 1945 dan tokoh hukum Indonesia.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/sutomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/soedirman</item>
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soepomo</item>
+    </integer-array>
+
+</resources>
